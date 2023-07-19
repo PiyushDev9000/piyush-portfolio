@@ -92,7 +92,7 @@ export function AppButton() {
 
   
   function handleButtonClick() {
-    window.open('https://drive.google.com/file/d/17Svjek7mQhYu5luD3P_04o1Jrhy3Q5Jx/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/11QJqXPS1hHoGZnYyvBKMcbW0MwlgUwQ_/view?usp=drive_link', '_blank');
   }
 
   return (
@@ -150,7 +150,7 @@ export function ResumeButton() {
 
   
   function handleButtonClick() {
-    window.open('https://drive.google.com/file/d/1PnRcImvTdO-aYS1Y8UqQpc0COHquBS5d/view?usp=share_link', '_blank');
+    window.open('https://drive.google.com/file/d/17Svjek7mQhYu5luD3P_04o1Jrhy3Q5Jx/view?usp=sharing', '_blank');
   }
 
   return (
