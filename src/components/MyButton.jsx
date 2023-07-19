@@ -92,7 +92,7 @@ export function AppButton() {
 
   
   function handleButtonClick() {
-    window.open('https://expo.dev/%40piyushdev0009/reactmobileapp?serviceType=classic&distribution=expo-go&releaseChannel=default', '_blank');
+    window.open('https://drive.google.com/file/d/17Svjek7mQhYu5luD3P_04o1Jrhy3Q5Jx/view?usp=sharing', '_blank');
   }
 
   return (
