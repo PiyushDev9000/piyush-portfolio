@@ -92,7 +92,7 @@ export function AppButton() {
 
   
   function handleButtonClick() {
-    window.open('https://drive.google.com/file/d/11QJqXPS1hHoGZnYyvBKMcbW0MwlgUwQ_/view?usp=drive_link', '_blank');
+    window.open('https://drive.google.com/file/d/1RwdgieoETXKNwKgPq8c4D_dm5B-vPq1Y/view?usp=sharing', '_blank');
   }
 
   return (
